@@ -17,11 +17,11 @@ Hoi! Ik ben Thamara, een enthousiaste developer met een passie voor webontwikkel
 Ik sta open voor samenwerking aan open source projecten en webapplicaties. <br>
 Interesse? Stuur me een bericht!<br>
 
-📫 Hoe bereik je mij?<br>
+📫 Hoe bereik je mij? <br>
 💬 Stuur een bericht via GitHub <br>
 📧 E-mail: tmsnell@outlook.com<br>
 
-⚡ Leuk feitje over mij<br>
+⚡ Leuk feitje over mij <br>
 Ik ben altijd op zoek naar nieuwe technologieën en frameworks om mijn vaardigheden te verbeteren!
 
 
