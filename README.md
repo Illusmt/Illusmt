@@ -22,7 +22,7 @@ Interesse? Stuur me een bericht!<br>
 📧 E-mail: tmsnell@outlook.com<br>
 
 ⚡ Leuk feitje over mij<br>
-Ik ben altijd op zoek naar nieuwe technologieën en frameworks om mijn vaardigheden te verbeteren! 🚀
+Ik ben altijd op zoek naar nieuwe technologieën en frameworks om mijn vaardigheden te verbeteren!
 
 
 
