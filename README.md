@@ -26,9 +26,3 @@ Ik ben altijd op zoek naar nieuwe technologieën en frameworks om mijn vaardighe
 
 
 
-
-
-
-Illusmt/Illusmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
