@@ -16,7 +16,7 @@ Hoi!     Ik ben Thamara, een enthousiaste developer met een passie voor webontwi
 
 🤝 Samenwerken?<br>
 Ik sta open voor samenwerking aan open source projecten en webapplicaties. <br>
-Interesse? Stuur me een bericht!<br>
+Interesse?    Stuur me een bericht!<br>
 
 📫 Hoe bereik je mij? <br>
 💬 Stuur een bericht via GitHub <br>
