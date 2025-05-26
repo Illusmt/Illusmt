@@ -1,7 +1,7 @@
 👋 Welkom op mijn GitHub-profiel!
 
 🏆 Over mij <br>
-Hoi! Ik ben Thamara, een enthousiaste developer met een passie voor webontwikkeling, databases en innovatieve software-oplossingen.
+Hoi!     Ik ben Thamara, een enthousiaste developer met een passie voor webontwikkeling, databases en innovatieve software-oplossingen.
 
 💡 Mijn interesses <br>
 🔹 Webontwikkeling (HTML, CSS, JavaScript, PHP) <br>
