@@ -8,7 +8,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v1
         with:
           github_user_name: ${{ github.illusmt }}
           outputs: |
