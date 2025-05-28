@@ -14,7 +14,7 @@ Hoi!     Ik ben Thamara, een enthousiaste developer met een passie voor webontwi
 📌 Git/GitHub workflows voor efficiënt projectbeheer <br>
 📌 Optimalisatie en security in webontwikkeling<br>
 
-🤝 Samenwerken?<br   
+🤝 Samenwerken?
 Ik sta open voor samenwerking aan open source projecten en webapplicaties. <br>
 Interesse?    Stuur me een bericht!<br>
 
