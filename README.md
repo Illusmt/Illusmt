@@ -45,6 +45,7 @@ Ik combineer techniek met educatie — van code tot community. Mijn projecten zi
 Wil je samenwerken, sparren of gewoon even meekijken in mijn projecten?  
 📧 [info@thacito.nl](mailto:info@thacito.nl)  
 🌐 [www.thacito.nl](https://www.thacito.nl)
+🌐 [www.thamarasnell.nl](https://www.thamarasnell.nl/)
 
 ---
 
